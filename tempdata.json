@@ -1,0 +1,64 @@
+{
+  "clipboard_entries": [
+    {
+      "id": "7b8e8400-e29b-41d4-a716-446655440001",
+      "content": "Meeting notes for project kickoff:\n- Review requirements\n- Assign tasks\n- Schedule next meeting",
+      "created_at": "2024-11-11T14:25:00Z",
+      "lifespan": 86400,
+      "device": {
+        "id": "d50e8400-e29b-41d4-a716-446655440001",
+        "name": "Work Laptop",
+        "os": "macOS",
+        "type": "desktop"
+      }
+    },
+    {
+      "id": "7b8e8400-e29b-41d4-a716-446655440002",
+      "content": "https://github.com/example/universal-clipboard",
+      "created_at": "2024-11-11T14:20:00Z",
+      "lifespan": 3600,
+      "device": {
+        "id": "d50e8400-e29b-41d4-a716-446655440002",
+        "name": "iPhone 13",
+        "os": "iOS",
+        "type": "mobile"
+      }
+    },
+    {
+      "id": "7b8e8400-e29b-41d4-a716-446655440003",
+      "content": "SELECT * FROM users WHERE active = true AND last_login > NOW() - INTERVAL '7 days';",
+      "created_at": "2024-11-11T14:15:00Z",
+      "lifespan": 7200,
+      "device": {
+        "id": "d50e8400-e29b-41d4-a716-446655440003",
+        "name": "Home Desktop",
+        "os": "Windows",
+        "type": "desktop"
+      }
+    },
+    {
+      "id": "7b8e8400-e29b-41d4-a716-446655440004",
+      "content": "🎉 Great job on the presentation team! 👏",
+      "created_at": "2024-11-11T14:10:00Z",
+      "lifespan": 3600,
+      "device": {
+        "id": "d50e8400-e29b-41d4-a716-446655440002",
+        "name": "iPhone 13",
+        "os": "iOS",
+        "type": "mobile"
+      }
+    },
+    {
+      "id": "7b8e8400-e29b-41d4-a716-446655440005",
+      "content": "+1 (555) 123-4567",
+      "created_at": "2024-11-11T14:05:00Z",
+      "lifespan": 1800,
+      "device": {
+        "id": "d50e8400-e29b-41d4-a716-446655440004",
+        "name": "iPad Pro",
+        "os": "iPadOS",
+        "type": "tablet"
+      }
+    }
+  ]
+}
