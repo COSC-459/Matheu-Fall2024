@@ -21,5 +21,5 @@ https://youtu.be/XQF7JqeBw4U
 
 ## Images
 
-<img width="340" alt="Homescreen" src="https://github.com/user-attachments/assets/e31ba988-ac3e-43f7-abb4-9b7f6aa9fb26">
-<img width="347" alt="Homescreen with text copied toast" src="https://github.com/user-attachments/assets/1722c481-221b-4704-9698-460138dccf5c">
+<img width="340" alt="Homescreen" src="https://imgur.com/a/d3p85gf">
+<img width="347" alt="Homescreen with text copied toast" src="https://imgur.com/a/4jKBL3Q">
